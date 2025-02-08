@@ -1,5 +1,4 @@
-## BSUIR (БГУИР)
-## FCSaN (ФКСиС)
+## BSUIR FCSaN (БГУИР ФКСиС)
 ## Computing Machines, Systems and Networks (CMSaN)
 ### Вычислительные машины, системы и сети (ВМСиС)
 #### 2021-2025
